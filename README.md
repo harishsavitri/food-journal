@@ -44,3 +44,5 @@ Clone this repository:
 git clone https://github.com/your-username/meal-logger.git
 Open index.html in your browser.
 Start logging your meals!
+
+Try it yourself with this live link : https://kallamrenunagasri.github.io/food-journal/
